@@ -1,4 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
-https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_00.jpg  Szenen  an information video of a girl talking on a small screen in a museum people are watching it  Museumsausstellung   Hannah Freynhagen  freynhagen
-https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_01.jpg  Szenen  a child watching an information video in a modern museum  Museumsausstellung   Hannah Freynhagen  freynhagen
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_00.jpg  Szenen  an information video of a girl talking on a small screen in a museum people are watching it  Museumsausstellung   Hannah Freynhagen  freynhagen
+03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_01.jpg  Szenen  a child watching an information video in a modern museum  Museumsausstellung   Hannah Freynhagen  freynhagen
