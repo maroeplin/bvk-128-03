@@ -3,8 +3,5 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/052/052_Szenen_GuthAntonia.png    Szenen  Prompt eingeben Titel der Arbeit    Antonia Guth    guth
 03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/052/03_Adaptionen_Schmidt_Astronauten_052.jpg	Adaption	A group of six steampunk astronauts stand on the surface of the moon. Their suits are made of copper, brass, leather, and glass, with gears, pipes, and other steampunk elements. They carry steam-powered oxygen tanks on their backs. The astronauts are illuminated by a dim light, and the background is a black void of space.	Astronauten der Mondmission	Lena Schmidt	schmidt
 04  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/052/03_Adaptionen_Guth_Antonia_052.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, hairy, abstract weird figure  Stop Motion  Antonia Guth  guth
-<<<<<<< HEAD
 08	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_052.jpg	Objekte	Design the camera in the style of "Alice in Wonderland" (2010) 	Analog camera	Jessica Rein	rein
-=======
 05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/052/01_Szene_Zirk_Luisa_052_08.jpg  Szenen  stanley kubrick style "2001: A Space Odyssey" as a pixelated videogame  Arcade  Luisa Zirk  zirk
->>>>>>> 62931fbdbb002c2a7fd433d38b1550c42344734f
