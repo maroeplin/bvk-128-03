@@ -5,5 +5,5 @@
 20	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ludwig_Sarah/00_Objekt_Ludwig_Sarah_093.jpg	Objekte	sculptural bionic biomimetic table with intricate details placed in a minimalistic Bauhaus room designed by Marcel Breuer, luminous, ethereal, edgy, mysterious, misty, foggy, gloomy, cinematic, photorealistic, experimental film, wide angle shot	Sleeping capsule	Sarah Ludwig	ludwig
 =======
 20  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ludwig_Sarah/00_Objekt_Ludwig_Sarah_093.jpg    Objekte sculptural bionic biomimetic table with intricate details placed in a minimalistic Bauhaus room designed by Marcel Breuer, luminous, ethereal, edgy, mysterious, misty, foggy, gloomy, cinematic, photorealistic, experimental film, wide angle shot    Sleeping capsule    Sarah Ludwig    ludwig
-05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/093/01_Szene_Zirk_Luisa_093_15.jpg  Szenen  stanley kubrick style "2001: A Space Odyssey" as a pixelated videogame  Luisa Zirk  zirk
+05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/093/01_Szene_Zirk_Luisa_093_15.jpg  Szenen  stanley kubrick style "2001: A Space Odyssey" as a pixelated videogame  Arcade  Luisa Zirk  zirk
 >>>>>>> a162d20f5f6650ef5ff2e3ae6d549943c5ea657e
