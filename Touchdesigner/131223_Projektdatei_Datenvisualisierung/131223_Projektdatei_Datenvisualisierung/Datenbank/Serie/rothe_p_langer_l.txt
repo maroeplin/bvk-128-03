@@ -1,2 +1,0 @@
-nummer	path	filter	prompt	titel	autor	projektuebersicht
-01  htpps://  Szenen  Prompt eingeben  Titel der Arbeit  Paul und Jannis  rothe

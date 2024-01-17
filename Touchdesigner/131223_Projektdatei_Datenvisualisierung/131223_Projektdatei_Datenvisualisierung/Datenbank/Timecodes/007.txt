@@ -1,2 +1,0 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/007/03_Adaptionen_Guth_Antonia_007.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, weird animals in a desert  Stop Motion  Antonia Guth  guth

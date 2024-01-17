@@ -1,2 +1,0 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_082.jpg	Objekte	A control panel on a costumes arm in the style of "Alice in Wonderland" (2010)	Controlpanel	Jessica Rein	rein

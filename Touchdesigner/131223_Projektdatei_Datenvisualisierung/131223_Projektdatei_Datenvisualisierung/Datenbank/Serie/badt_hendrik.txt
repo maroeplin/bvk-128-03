@@ -1,1 +1,0 @@
-numme	path	filter	prompt	titel	autor	projektuebersicht
