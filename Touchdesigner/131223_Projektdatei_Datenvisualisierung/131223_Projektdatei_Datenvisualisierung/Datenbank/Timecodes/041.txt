@@ -1,3 +1,4 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Zirk_Luisa.png	Objekte Prompt eingeben Titel der Arbeit	Hannah Freynhagen   freynhagen
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/041/041_Zirk_Luisa.png    Szenen  Prompt eingeben Titel der Arbeit    Luisa Zirk  zirk
+https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_041.jpg  Szenen  interaktive red light museum close up on face of visitors  Museumsausstellung  Hannah Freynhagen  freynhagen
