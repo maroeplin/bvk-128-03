@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+18  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ludwig_Sarah/01_Szenen_Ludwig_Sarah_071.jpg    Szenen  astronaut wearing a sculptural bionic biomimetic spacesuit and helmet with intricate details placed in a minimalistic Bauhaus room designed by Marcel Breuer, luminous, ethereal, edgy, mysterious, dawn, misty, foggy, gloomy atmosphere, cinematic, photorealistic, experimental film, wide angle shot    Spaceship interior  Sarah Ludwig    ludwig

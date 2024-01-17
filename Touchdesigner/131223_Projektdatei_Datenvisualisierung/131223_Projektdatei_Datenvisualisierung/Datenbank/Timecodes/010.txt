@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ludwig_Sarah/01_Szenen_Ludwig_Sarah_010.jpg    Szenen  a wide vast desert landscape with cliffs with biomimetic biomorphic bionic shapes emerging from the rough ground, intricate details, luminous, ethereal, edgy, sculptural, cinematic, photorealistic    Biomorphe Landschaft    Sarah Ludwig    ludwig
