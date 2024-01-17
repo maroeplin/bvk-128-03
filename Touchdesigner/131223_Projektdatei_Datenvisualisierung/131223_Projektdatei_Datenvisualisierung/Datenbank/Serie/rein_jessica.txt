@@ -14,7 +14,7 @@ name	path	filter	name
 13	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_082.jpg	Objekte	Lorem ipsum dolor sit amet	Controlpanel	Jessica Rein	rein
 14	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_34.jpg	Objekte	Lorem ipsum dolor sit amet	Chair	Jessica Rein	rein
 15	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_jessica_025.jpg	Objekte	Lorem ipsum dolor sit amet	Keyboard	Jessica Rein	rein
-16	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_013.jpg	Szenen	Lorem ipsum dolor sit amet	Monolith	Jessica Rein	rein
+16	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_013.jpg	Szenen	Turn this scene in the style of "Alice in Wonderland" (2010, director Tim Burton) with just a few accents --no person, human, face, people	Monolith	Jessica Rein	rein
 17	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_019.jpg	Szenen	Lorem ipsum dolor sit amet	Universe	Jessica Rein	rein
 18	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_023.jpg	Szenen	Lorem ipsum dolor sit amet	Cockpit	Jessica Rein	rein
 19	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_025.jpg	Szenen	Lorem ipsum dolor sit amet	Lounge	Jessica Rein	rein
