@@ -1,2 +1,3 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
+nummer	path	filter	prompt	titel	autor	projektuebersicht
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/040/040_Objekte_Yannick_Dess_Raumschiff.jpg Objekte A shabby outworn damaged old metal steel escape capsule Pod which is floating landing above an Airfield in Nighty Space area with many white runway guard lights in dense foglight, interesting composition, Front view, The escape capsule has a very wide but small narrow window and three landing feet. blade runner, worn out surface, realistic, Science Fiction Style, cyberpunk, cables, military tech, chrome finish  Raumschiff  Yannick Dess  dess
 
