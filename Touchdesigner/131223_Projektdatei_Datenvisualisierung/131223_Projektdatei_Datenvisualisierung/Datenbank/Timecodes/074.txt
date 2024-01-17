@@ -1,0 +1,4 @@
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/074/01_Szenen_Knauer_Sarah_eva_pod_12.jpg	Szenen	hal computer from the movie 2001 a space odyssey, made out of rough rattan, in a spaceship in dark space, 8k high resolution photography	Eva Pod	Sarah Knauer	knauer
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/074/00_Gisevius_Sara_Eva_Pod.jpg
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/074/00_Gisevius_Sara_Eva_Pod_3.jpg
+25	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/01_Szenen_Rein_Jessica_074.jpg	Szenen	Design a cockpit in the style of "Alice in Wonderland" (2010) directed by Tim Burton, checkerboard pattern, heart ornaments	Lovepit	Jessica Rein	rein
