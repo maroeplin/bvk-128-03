@@ -7,3 +7,4 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 06  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/00_Objekt_Badt_Hendrik_056_00.jpg Objekte Prompt eingeben Titel der Arbeit    Henrik Badt badt
 07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/00_Objekt_Badt_Hendrik_056_01.jpg Objekte Prompt eingeben Titel der Arbeit    Henrik Badt badt
 08  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/03_Adaptionen_Guth_Antonia_056.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, weird space ship  Stop Motion  Antonia Guth  guth
+09	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_056.jpg	Objekte	Make it like this lounger looks like in the move alice in wonderland directed by Tim Burton	Ergonomic lounger	Jessica Rein	rein

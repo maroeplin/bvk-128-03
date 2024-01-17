@@ -1,3 +1,4 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Zirk_Luisa.png	Objekte Prompt eingeben Titel der Arbeit	Hannah Freynhagen   freynhagen
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/041/041_Zirk_Luisa.png    Szenen  Prompt eingeben Titel der Arbeit    Luisa Zirk  zirk
+06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_041.jpg	Objekte	A door in the style of "Alice in Wonderland" (2010) directed by Tim Burton	Portal	Jessica Rein	rein
