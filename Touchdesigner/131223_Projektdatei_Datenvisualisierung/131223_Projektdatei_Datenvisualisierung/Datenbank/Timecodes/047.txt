@@ -4,3 +4,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/12_Szenen_Eickelpasch_Lamella.jpg  Szenen  show me the engine rooms of the spaceship  Lamella  Lisa Eickelpsach  eickelpasch
 04  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/28_Szenen_Eickelpasch_Lamella.jpg  Szenen  show me the engine compartment of this spaceship  Lamella  Lisa Eickelpasch  eickelpasch
 05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/29_Szenen_Eickelpasch_Lamella.jpg  Szenen  show me the engine compartment of this spaceship  Lamella  Lisa Eickelpasch  eickelpasch
+06  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/047/03_Adaptionen_Guth_Antonia_047.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, hairy  Stop Motion  Antonia Guth  guth
