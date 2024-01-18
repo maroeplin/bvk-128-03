@@ -9,3 +9,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 =======
 05  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_131.jpg  Szenen  painting on the wall of a museum abstract lines and colours that bundle in the middle  Moderne Kunst  Hannah Freynhagen  freynhagen
 >>>>>>> 872a0ed9e989fa09f8173f56b8f26988a631a8d4
+11  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_131_00.jpg  Adaption  2001 Space Odyssey abstract landscape, afterlife, in style of Oskar Fischinger, Len Lye, geometric, minimalism, neoplasticism, subtle gradient, soft tonal colors, surreal --ar 16:9 --no symmetry --no circles  Lighthouse  Maxima Widera  widera
