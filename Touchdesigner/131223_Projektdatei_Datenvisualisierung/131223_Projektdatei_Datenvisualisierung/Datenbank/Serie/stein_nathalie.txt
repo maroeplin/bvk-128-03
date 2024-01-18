@@ -1,4 +1,4 @@
-Timecode	Kategorie	filter	Bildunterschrift	Autor_In	Prompt	Kurztext
+Timecode	Kategorie	Filter  Bildunterschrift	Autor_In	Prompt	Kurztext
 13  Adaption	a solid black monolith in the style of "H.R. Giger" standing in a wasteland ; the monolith is made up of organic and inorganic shapes like a biomechanical spaceship console  Monolith	Nathalie Stein	stein
 14  Adaption  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_014.jpg  A low angle shot of a sharp edged black monolith, looking up at the sky, the monolith is rendered in the style of "HR Giger"	Monolith 02	Nathalie Stein	stein
 21  Adaption  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_021.jpg  a wheel-shaped space station floating in space rendered in the style of "H.R. Giger", it is shadowed eerily reminiscent of the Alien movie, biomechanical, the moon is visible in the right corner  Raumschiff  Nathalie Stein  stein
