@@ -1,4 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/056/01_Szenen_Knauer_Sarah_spaceship_02.jpg	Szenen  Prompt eingeben Titel der Arbeit    Sarah Knauer    knauer
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/055/03_Adaption_Stein_055.jpg	Szenen  Prompt eingeben Titel der Arbeit    Nathalie Stein  Stein
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_055.jpg	Adaption  Biomechanical spaceship, slender and sinuous like the works of H.R. Giger, soaring into the abyss, design fuses mechanical elements with organic forms, eerie and unsettling atmosphere reminiscent of the Alien franchise, shadows play across its hull as it slips away into darkness Raumschiff im Flug 02    Nathalie Stein  stein
 
