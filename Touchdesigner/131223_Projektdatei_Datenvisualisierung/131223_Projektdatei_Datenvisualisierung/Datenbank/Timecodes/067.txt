@@ -1,2 +1,3 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 03	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/067/03_adaption_Giessmann_Alina_Schlafbereich_kom.jpg	Adaption	bed, Organic forms, Curved lines, organic architecture, Asymmetry, Natural forms, Whiplash curves, Aesthetic movement, organic rooms, Biomimicry,  out of Space, dynamic lighting, ultra high definition, reflections, sharp focus, intense shadows, detailed and intricate environment, intricate	Schlafbereich	Alina Giessmann	giessmann
+29	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/067/29_Szenen_Jakob_Vasilega_Sarah_Dariia_067.png	Szenen	Bedroom	Sarah Jakob Dariia Vasilega	jakob vasilega
