@@ -1,5 +1,4 @@
-Timecode	Kategorie  Bildunterschrift	Autor_In	Prompt	Kurztext
-00  -  Bildunterschrift  Nathalie Stein  - Lorem Ipsum
+nummer	path	filter	prompt	titel	autor	projektuebersicht
 13  Adaption	a solid black monolith in the style of "H.R. Giger" standing in a wasteland ; the monolith is made up of organic and inorganic shapes like a biomechanical spaceship console  Monolith	Nathalie Stein	stein
 14  Adaption  A low angle shot of a sharp edged black monolith, looking up at the sky, the monolith is rendered in the style of "HR Giger"	Monolith 02	Nathalie Stein	stein
 21  Adaption  a wheel-shaped space station floating in space rendered in the style of "H.R. Giger", it is shadowed eerily reminiscent of the Alien movie, biomechanical, the moon is visible in the right corner  Raumschiff  Nathalie Stein  stein
