@@ -1,2 +1,3 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_082.jpg	Objekte	A control panel on a costumes arm in the style of "Alice in Wonderland" (2010)	Controlpanel	Jessica Rein	rein
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Langhanki_Jan/01_Szenen_Langhanki_Jan_082.jpg  Szenen  A mix of a futuristic scifi male astronaut and a pulp story detective, post ww2, steampunk, inside space station, photography, black and white image  David Bowman  Jan Langhanki  langhanki
