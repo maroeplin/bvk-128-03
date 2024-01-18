@@ -5,3 +5,24 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 07	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/014/03_Adaptionen_Schmidt_Monolith_014.jpg	Adaption	A realistic and detailed image of a steampunk monolith. The monolith is seen from a close-up perspective, as if the viewer is standing at its base and looking up at it. The monolith is rectangular and towers above the viewer. It is made of copper, brass, and other steampunk materials, such as gears, pipes, and valves. The monolith is also covered in leather. Steam rises from vents in the monolith. The monolith glows faintly from within, illuminating the night scene. The scene is set at night. The sky is dark blue, and there are a few stars visible. There are also a few small clouds in the sky. There is no landscape visible in the image. The overall scene is dark, cool, and slightly misty. It has a calm, mystical, and futuristic atmosphere.	Monolith in Wüstenlandschaft (Serie 02/02)	Lena Schmidt	schmidt
 05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_014.jpg  Szene  apes as greek statues in a museum the walls are orange in the middle of a room is a huge stone block  Gorilla Statuen  Hannah Freynhagen  freynhagen
 06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_014.jpg	Adaption	A low angle shot of a sharp edged black monolith, looking up at the sky, the monolith is rendered in the style of "HR Giger"	Monolith 02	Nathalie Stein	stein
+11  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/11_Adaption_Lai_Sarah_01.png  destroyed spaceship on the ground midsommar cosmic horror surreal lovecraftian 2001 a space odyssey colorfull bright daylight cinematic  Adaption Sarah Lai lai
+11  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/11_Adaption_Lai_Sarah_02%20(2).png  destroyed spaceship midsommar cosmic horror surreal lovecraftian 2001 a space odyssey bright daylight cinematic  Adaption Sarah Lai lai
+11  https://github.com/maroeplin/bvk-128-03/blob/main/Projektserie/Lai_Sarah_Nathalie/11_Adaption_Lai_Sarah_02.png  destroyed spaceship on the ground midsommar cosmic horror surreal lovecraftian 2001 a space odyssey colorfull bright daylight cinematic  Adaption Sarah Lai lai
+11  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/11_Adaption_Lai_Sarah_03.png  destroyed spaceship midsommar cosmic horror surreal lovecraftian 2001 a space odyssey bright daylight cinematic  Adaption Sarah Lai lai
+11  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/11_Adaption_Lai_Sarah_04.png  destroyed spaceship on the ground midsommar cosmic horror surreal lovecraftian 2001 a space odyssey colorfull bright daylight cinematic  Adaption Sarah Lai lai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
