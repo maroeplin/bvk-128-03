@@ -1,4 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/114/114_Objekte_N%C3%B5ulik_Romy.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/140/03_Adaptionen_Guth_Antonia_140.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, weird newborn  Antonia Guth  guth
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_140.png  Szenen  a baby looking at an image of the earth on the floor of a modern museum  Museumsausstellung  Hannah Freynhagen  freynhagen
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_140.png  Szenen  a baby looking at an image of the earth on the floor of a modern museum  Baby God  Hannah Freynhagen  freynhagen
