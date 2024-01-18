@@ -1,25 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht	
 01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/01_Szene_Zirk_Luisa_002_01.jpg  Szenen  stanley kubrick style "2001: A Space Odyssey" as a pixelated videogame 
 dark black, mysterious arcade hall without colors  Arcade1  Luisa Zirk  zirk
-02
-03
-04
-05
-06
-07
-08
-09
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
+02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/027/01_Szene_Zirk_Luisa_027_02.jpg  Szenen  stanley kubrick style "2001: A Space Odyssey" as a pixelated videogame  Arcade2  Luisa Zirk  zirk
+
