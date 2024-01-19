@@ -9,3 +9,8 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 08  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_130.jpg  Adaption  https://s.mj.run/hx9xTyfXW-8 2001 Space Odyssey abstract landscape, afterlife, in style of Oskar Fischinger, Len Lye, geometric, minimalism, neoplasticism, subtle gradient, soft tonal colors, surreal --ar 16:9 --no symmetry --no circles  Lost Land  Maxima Widera  widera
 36  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/130/36_Szenen_Nguyen_130.png  Szenen  abstract, space, light tunnel, green hue, centred composition  Stop-Motion grüne Textilien  Tuan Nguyen  nguyen
 25  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_130.jpg  Adaptionen  futuristic spaceship, science fiction, set design, inspired by stanley kubricks space odyssey 2001, vast barren landscape, surreal vivid colors  Technische Entwicklung  Katharina Saathoff  saathoff
+11
+12
+13
+14
+15
