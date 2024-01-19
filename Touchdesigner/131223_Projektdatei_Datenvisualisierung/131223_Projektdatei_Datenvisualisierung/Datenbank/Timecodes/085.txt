@@ -1,1 +1,2 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
 01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ries_Johanna/03_Adaption_Ries_Johanna_085.jpg  Adaptionen  Two astronauts sit side by side in a round, sealed space capsule; We look in through a window; It should look like it was 3D printed;  SpacePrint  Johanna Ries  ries
