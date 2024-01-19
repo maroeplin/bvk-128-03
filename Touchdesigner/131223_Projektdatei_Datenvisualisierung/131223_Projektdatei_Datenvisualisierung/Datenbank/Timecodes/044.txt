@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+07  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_044.jpg  Adaptionen  close up, astronaut, plants in landscape, science fiction, set design, inspired by stanley kubricks space odyssey: 2001  Nahaufnahme Astronaut  Katharina Saathoff  saathoff
