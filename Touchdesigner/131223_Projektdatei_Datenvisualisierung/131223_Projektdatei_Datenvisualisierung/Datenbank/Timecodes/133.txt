@@ -13,9 +13,9 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 12https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_133_01.jpg  Adaption  https://s.mj.run/WKi1YK-oad8 2001 Space Odyssey baroque style room chairs Bed tables, afterlife, in style of Oskar Fischinger, Len Lye, geometric, minimalism, neoplasticism, subtle gradient, cold colors, warm light, surreal --no symmetry --ar 16:9 --v 5.2  Afterlife  Maxima Widera  widera
 27  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_133.jpg  Adaptionen  surreal interior, spaceship with a crew, science fiction set design, inspired by stanley kubricks space odyssey:2001, surreal vivid colors, ominous vast barren and inviting landscape  Zentrum vom Raumschiff  Katharina Saathoff  saathoff
 14  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_002_133.jpg  Adaptionen  living room in a space station  Raumstation Außenposten 2/7  Swaantje Meyer  meyer
-15  Adaptionen  Swaantje Meyer  meyer
-16  Adaptionen  Swaantje Meyer  meyer
-17  Adaptionen  Swaantje Meyer  meyer
-18  Adaptionen  Swaantje Meyer  meyer
-19  Adaptionen  Swaantje Meyer  meyer
-20  Adaptionen  Swaantje Meyer  meyer
+15  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_003_133.jpg  Adaptionen  living room in a container  Raumstation Außenposten 3/7  Swaantje Meyer  meyer
+16  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_004_133.jpg  Adaptionen  living room in a container  Raumstation Außenposten 4/7  Swaantje Meyer  meyer
+17  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_005_133.jpg  Adaptionen  living room in a space station  Raumstation Außenposten 5/7  Swaantje Meyer  meyer
+18  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_006_133.jpg  Adaptionen  living room  Raumstation Außenposten 6/7  Swaantje Meyer  meyer
+19  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_007_133.jpg  Adaptionen  living room  Raumstation Außenposten 7/7  Swaantje Meyer  meyer
+20  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_052_133.jpg  Adaptionen  close up of a futuristic shower outside a space station with bright lighting and soft colour  Kaputtes Kommunikationsgerät  Swaantje Meyer  meyer
