@@ -40,6 +40,6 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 39  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_056_013.jpg  Adaptionen  Landender Monolith 2/4  Swaantje Meyer  meyer
 40  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_057_013.jpg  Adaptionen  Landender Monolith 3/4  Swaantje Meyer  meyer
 41  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_058_013.jpg  Adaptionen  Landender Monolith 4/4  Swaantje Meyer  meyer
-
+42  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_059_013.jpg  Adaptionen  Monolith 1/3  Swaantje Meyer  meyer
 
 
