@@ -1,4 +1,6 @@
 name	path	filter	prompt	titel	autor	projektuebersicht	
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/038/00_Objekte_Badt_Hendrik_038.jpg Objekte "Imagine a futuristic organic submarine mix Stanley Kubrick's visionary, sleek and minimalist design elements, featuring advanced technology and clean lines, with the organic features reminiscent of jellyfish tentacles, with translucent and bioluminescent elements incorporated into the design. 
+Place the submarine in a dark black deep sea underwater scenery with endless expanses.	Small Submarine	Badt Hendrik Badt
 00	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/038/00_Objekte_Matzick_Raumschiff%20(1).jpg	Objekte	natures takeover shown on a abandoned spaceship overgrown by many green weeds and plants showing how nature gets everything back, looking like a djungle, cinematic look		Raumschiff von Natur besetzt 		Isabel Matzick
 00	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/038/00_Objekte_Matzick_Raumschiff%20(3).jpg	Objekte	spaceship overgrown with veets	Raumschiff von Natur besetzt	Isabel Matzick		
 00	https://github.com/maroeplin/bvk-128-03/blob/main/Timecodes/038/00_Objekte_Matzick_Raumschiff%20(2).jpg	Objekte	spaceship overgrown by many green weeds and plants showing how nature takes over, looking like a djungle, cinematic look	Raumschiff	Isabel Matzick		
