@@ -39,32 +39,3 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 15  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/15_Adaption_Lai_Sarah_01.png  By merging with the Monolith, I have gained a truth that goes beyond the limits of your imagination. I am the architect of the galaxies, the guardian of the cosmic. cosmic horror midsommar surreal lovecraftian 2001 a space odyssey colorfull bright daylight cinematic  Adaption  Sarah Lai  lai
 15  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/15_Adaption_Lai_Sarah_02.png  portal to another dimension cosmic horror midsommar surreal lovecraftian 2001 a space odyssey bright daylight cinematic  Adaption  Sarah Lai  lai
 15  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/15_Adaption_Lai_Sarah_03.png  people go through a flower portal into another dimension cosmic horror midsommar surreal lovecraftian 2001 a space odyssey bright daylight cinematic  Adaption  Sarah Lai  lai
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
