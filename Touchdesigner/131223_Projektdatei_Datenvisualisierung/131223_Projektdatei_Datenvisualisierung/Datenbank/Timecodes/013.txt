@@ -38,7 +38,7 @@ nummer	path	filter	prompt	titel	autor	projektuebersicht
 38 https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/OduroMensah_Gwen_Debrah_Eunice/013_adapton_OduroMensah_Debrah01.jpg Objekt Create the monolith inspired by the movie a space odyssey. Curved elements and wholes. Retro style and colors. Fashio and new. Negative prompts: no human Gwen Oduro-Mensah Eunice Debrah
 38  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_055_013.jpg  Adaptionen  Landender Monolith 1/4  Swaantje Meyer  meyer
 39  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_056_013.jpg  Adaptionen  Landender Monolith 2/4  Swaantje Meyer  meyer
-
+40  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_057_013.jpg  Adaptionen  Landender Monolith 3/4  Swaantje Meyer  meyer
 
 
 
