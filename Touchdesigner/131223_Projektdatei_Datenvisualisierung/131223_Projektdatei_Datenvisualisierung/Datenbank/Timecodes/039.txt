@@ -1,4 +1,6 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/00_Objekte_Badt_Hendrik_039_00.jpg Objekte Imagine realistic diving suits, futuristic, with touchscreens and cameras, like something never seen before, hal 9000. Diving Suit Badt Hendrik Badt
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/00_Objekte_Badt_Hendrik_039_01.jpg Objekte Diving suit in the style of stanley kubriks futuristic design of a space odyssey. Diving Suit Badt Hendrik Badt
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/039_Szenen_Jakob_Vasilega_Sarah_Dariia.png    Szenen  Prompt eingeben Titel der Arbeit	Sarah Jakob & Dariia Vasilega   jakob				
 
 18	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/039/18_Szenen_Jakob_Vasilega_Sarah_Dariia_039.png	Szene	cosmonauts, soviet union, 1970s, lonely, realistic, photorealistic, strange planet, cosmonaut wearing space soviet uniform, realistic, make look real	Expedition	Sarah Jakob Dariia Vasilega	soviet
