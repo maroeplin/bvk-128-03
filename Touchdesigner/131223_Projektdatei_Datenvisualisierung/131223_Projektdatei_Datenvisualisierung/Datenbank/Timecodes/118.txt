@@ -1,3 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/114/114_Objekte_N%C3%B5ulik_Romy.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_118.jpg  Szenen  a video in a museum showing space and planets  Planetenausstellung  Hannah Freynhagen  freynhagen
+24  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_118.jpg  Adaptionen  The outdoor environments in this science fiction world would echo Kubrick's affinity for vast, barren, and futuristic landscapes  Umgebung 4  Katharina Saathoff  saathoff
