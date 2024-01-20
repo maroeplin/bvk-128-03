@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Langhanki_Jan/01_Szenen_Langhanki_Jan_055.png	Szenen	A sci-fi space station floating through space, post ww2, pulp, noir style, steampunk, round and long, black and white, realistic rendering	Raumstation	Jan Langhanki	langhanki	
