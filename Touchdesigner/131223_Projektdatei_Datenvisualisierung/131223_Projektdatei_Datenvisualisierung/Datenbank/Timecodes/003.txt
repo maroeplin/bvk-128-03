@@ -1,2 +1,0 @@
-﻿name	path	filter	prompt	titel	autor	projektuebersicht
-05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/002/002_Zirk_Luisa.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Luisa Zirk	zirk
