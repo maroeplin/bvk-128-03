@@ -1,2 +1,0 @@
-name	path	filter	prompt	titel	autor	projektuebersicht					
-23  	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_110.jpg  	Adaptionen  	vast, barren, and futuristic landscapes, surreal landscapes that feel both inviting and ominous, deep, dark, and vivid colors  	Straße  	Katharina Saathoff  	saathoff						
