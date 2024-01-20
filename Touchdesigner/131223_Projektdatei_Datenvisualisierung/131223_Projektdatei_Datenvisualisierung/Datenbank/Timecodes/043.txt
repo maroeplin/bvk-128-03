@@ -1,4 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
-https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/02_Charaktere_Freynhagen_Hannah_043.jpg  Charaktere  wax figure of man speaking with an american flag behind him  America  Hannah Freynhagen  freynhagen
-03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/043/02_Charaktere_Guth_Antonia_043.jpg  Charaktere  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine  Stop Motion  Antonia Guth  guth
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/02_Charaktere_Freynhagen_Hannah_043.jpg	Charaktere	wax figure of man speaking with an american flag behind him	America	Hannah Freynhagen	freynhagen
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/043/02_Charaktere_Guth_Antonia_043.jpg	Charaktere	Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine	Stop Motion	Antonia Guth	guth
