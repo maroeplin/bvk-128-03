@@ -1,1 +1,2 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
+09	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Blumstein_Alina/01_Szenen_Blumstein_Alina_070.jpg	Szenen	everything melts heavily, abstract, art  Abstract	HAL 2	Alina Blumstein	blumstein						

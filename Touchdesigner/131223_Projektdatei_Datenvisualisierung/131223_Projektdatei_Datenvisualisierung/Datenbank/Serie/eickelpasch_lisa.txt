@@ -1,1 +1,4 @@
 nummer	path	filter	prompt	titel	autor	projektuebersicht
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/08_Szenen_Eickelpasch_Lamella.jpg	Szenen	place a big Server into the Spaceship that we created in this conversation; give me more variations of this	Lamella_Spaceships-Control-Center01	Lisa Eickelpasch	eickelpasch									
+05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/11_Szenen_Eickelpasch_Lamella.jpg	Szenen	show me the telephone central of this spaceship with lamella structure	Lamella_Spaceships-Control-Center02	Lisa Eickelpasch	eickelpasch									
+06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Eickelpasch_Lisa/19_Szenen_Eickelpasch_Lamella.jpg	Szenen	show me the center of this spaceship	Lamella_Spaceships-Control-Center03	Lisa Eickelpasch	eickelpasch		
