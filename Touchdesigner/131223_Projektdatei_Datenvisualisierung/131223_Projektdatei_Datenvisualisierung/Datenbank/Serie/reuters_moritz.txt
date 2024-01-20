@@ -1,4 +1,4 @@
-name	path	filter	name	
+name	path	filter	prompt	titel	autor	projektuebersicht
 01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Reuters_Moritz/01_Charaktere_Reuters_Moritz_102.jpg	Charaktere	reuters	
 02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Reuters_Moritz/01_Charaktere_Reuters_Moritz_134.jpg	Charaktere	reuters	
 03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Reuters_Moritz/01_Charaktere_Reuters_Moritz_136.jpg	Charaktere	reuters	
