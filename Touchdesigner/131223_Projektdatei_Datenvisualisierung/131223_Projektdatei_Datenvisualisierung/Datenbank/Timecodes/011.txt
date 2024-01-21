@@ -1,2 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/011/011_Freynhagen_Hannah.png	Szenen	Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.	Titel der Arbeit	Hannah Freynhagen	freynhagen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/011/03_Adaptionen_Guth_Antonia_011.jpg	Adaptionen	Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine  Stop Motion  Antonia Guth	guth
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_011.jpg	Szenen	a museum showing fake apes in a dessert scene behind glass a child is pointing at them	Gorilla-Ausstellung	Hannah Freynhagen	freynhagen
+08	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Lai_Sarah_Nathalie/08_Adaption_Lai_Sarah_01.png	horror midsommar space odyssey lovecraftian	Adaption Sarah Lai	lai

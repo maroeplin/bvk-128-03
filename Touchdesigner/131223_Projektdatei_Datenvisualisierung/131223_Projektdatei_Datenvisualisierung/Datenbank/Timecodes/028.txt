@@ -1,2 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_00.jpg	Szenen	an information video of a girl talking on a small screen in a museum people are watching it  Videobotschaft	Hannah Freynhagen	freynhagen
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Freynhagen_Hannah/01_Szenen_Freynhagen_Hannah_028_01.jpg	Szenen	a child watching an information video in a modern museum  Video Dokumentation	Hannah Freynhagen	freynhagen
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/028/02_Charaktere_Guth_Antonia_028.jpg	Adaptionen	SStanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, weird figure  Stop Motion	Antonia Guth	guth
+05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ries_Johanna/03_Adaption_Ries_Johanna_028.jpg	Adaptionen	A machine that has an integrated monitor and keyboard; futuristic; it should look like it was printed with a 3D printer;	SpacePrint	Johanna Ries	ries	SpacePrint	Johanna Ries	ries

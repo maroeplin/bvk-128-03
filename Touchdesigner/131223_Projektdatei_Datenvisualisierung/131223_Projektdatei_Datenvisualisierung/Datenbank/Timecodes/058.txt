@@ -1,3 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/01_Szenen_Alina_Blumstein.png Szenen  Prompt eingeben Titel der Arbeit    Alina Blumstein blumstein
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/02_Szenen_Alina_Blumstein.png Szenen  Prompt eingeben Titel der Arbeit    Alina Blumstein blumstein
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/01_Szenen_Alina_Blumstein.png	Szenen	Prompt eingeben	Titel der Arbeit	Alina Blumstein	blumstein						
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/058/02_Szenen_Alina_Blumstein.png	Szenen	Prompt eingeben	Titel der Arbeit	Alina Blumstein	blumstein						
+10	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Rein_Jessica/00_Objekte_Rein_Jessica_058.jpg	Objekte	LMake this door into a portal in the style of "Alice in Wonderland" (2010) directed by Tim Burton	Door Portal	Jessica Rein	rein
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ries_Johanna/03_Adaption_Ries_Johanna_058.jpg	Adaptionen	A flat tray with different sized and rectangular compartments; modern; It should look like it was printed with a 3D printer;	SpacePrint	Johanna Ries	ries						

@@ -1,0 +1,3 @@
+name	path	filter	prompt	titel	autor	projektuebersicht
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_077.jpg	Adaption	https://s.mj.run/f3AHxr33lck , 2001 Space Odyssey austronout repairing spaceship, in style of Oskar Fischinger, Len Lye, geometric, minimalism, neoplasticism, subtle gradient, soft tonal colors, surreal --ar 16:9	Damage Taken	Maxima Widera	widera
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Debrah_Eunice/_Debrah%20Eunice%20Abgabe%2025.jpg	Objekte	In wakanda army with a lot of soldiers brown and green enviroment and plants. africian wakanda window tracerv. marching trough wakanda, in space	Space Odyssey im Wakanda Stil	Eunice Debrah	debrah  
