@@ -1,6 +1,5 @@
-nummer	path	filter	prompt	titel	autor	projektuebersicht
-00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Rein_Jessica_025.png	Szenen  prompt eingeben Titel der Arbeit    Jessica Rein    rein						
-00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Knauer_Sarah_spaceship_03.jpg	Szenen  prompt eingeben Titel der Arbeit    Sarah Knauer    knauer						
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah(1).png	Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen						
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Freynhagen_Hannah.png	Szenen  prompt eingeben Titel der Arbeit    Hannah Freynhagen    freynhagen						
-04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/025_Szenen_Jakob_Vasilega_Sarah_Dariia.png	Szenen  prompt eingeben Titel der Arbeit    Sarah Jakob & Dariia Vasilega    jakob						
+nummer	path	filter	prompt	titel	autor	projektuebersicht	
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/025/01_Szenen_Knauer_Sarah_spaceship_03.jpg	Szenen  prompt eingeben Titel der Arbeit    Sarah Knauer    knauer
+06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_024_00.jpg	Adaption	a spaceship cockpit with two seats inspired by style of "H.R. Giger", with shapes and colours reminescent of the movie "Alien" 1979  Cockpit  Nathalie Stein  stein
+07	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_024_01.jpg	Adaption	the opening of a space station the style of "H.R. Giger", biomechanical, alien, horror, Alien	Raumschiff 02	Nathalie Stein	stein
+08	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_024.png	Adaption	https://s.mj.run/iCC9Cu58k24 2001 space Odyssey Spaceship --ar 16:9 --seed 3281792204	View	Maxima Widera	widera

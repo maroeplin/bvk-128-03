@@ -1,2 +1,2 @@
-name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/24cb1eb6567d228de45eb66904304d3bb036c731/Timecodes/114/114_Objekte_N%C3%B5ulik_Romy.jpg   Objekte prompt eingeben Titel der Arbeit    Nõulik Romy   noulik
+name	path	filter	prompt	titel	autor	projektuebersicht					
+23  	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_110.jpg  	Adaptionen  	vast, barren, and futuristic landscapes, surreal landscapes that feel both inviting and ominous, deep, dark, and vivid colors  	Straße  	Katharina Saathoff  	saathoff						
