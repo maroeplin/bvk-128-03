@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Roessler_Lukas_Tamm_Benjamin/00_Objekt_Roessler_Tamm_076.jpg	Objekte	An extremely large bionic, futuristic, circular Spaceship floating in space, translucent plastic casing, filled with millions of plastic cables resembling muscle anatomy, fiber, blood-vessels, cables, technology, musculus, human skin, A24, Arri Alexa, Helios 44-2	Spaceship	Lukas Rössler,Benjamin Tamm	roessler
