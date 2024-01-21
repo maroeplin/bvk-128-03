@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Widera_Maxima/03_Adaption_Widera_Maxima_083.png	Adaption	https://s.mj.run/i-IdpFJa8-I 2001 Space Odyssey HAL, aggressive, angry, artificial intellegence, control panel, monitor, in style of Oskar Fischinger, Len Lye, geometric, minimalism, neoplasticism, subtle gradient, soft tonal colors, surreal --ar 16:9 --v 5.2	Epiphany	Maxima Widera	widera	

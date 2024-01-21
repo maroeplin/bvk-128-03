@@ -1,2 +1,3 @@
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/079/03_Adaptionen_Guth_Antonia_079.jpg  Adaptionen  Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, diagram  Stop Motion  Antonia Guth  guth
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_079.jpg  Adaption  a top down look at a man working on a space station console, rendered in the style of "HR Giger", compiling organic and inorganic shapes and textures  Screens  Nathalie Stein  stein
+name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/079/03_Adaptionen_Guth_Antonia_079.jpg	Adaptionen	Stanley Kubrik Style, "2001: A Space Odyssey" as a stop motion film, plasticine, diagram	Stop Motion	Antonia Guth	guth
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_079.jpg	Adaption	a top down look at a man working on a space station console, rendered in the style of "HR Giger", compiling organic and inorganic shapes and textures	Screens	Nathalie Stein	stein
