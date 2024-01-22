@@ -27,4 +27,4 @@
 27	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_138.mp4	Adaption	create an abstract yet spatial representation using only the colors gold and orange, dark blue and violet	Also sprach Zarathustra	Alexandra Kroeger	kroeger
 28	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_139.mp4	Adaption	create an abstract yet spatial representation using only the colors gold and orange, dark blue and violet	Also sprach Zarathustra	Alexandra Kroeger	kroeger
 29	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_140.mp4	Adaption	create an abstract yet spatial representation using only the colors gold and orange, dark blue and violet	Also sprach Zarathustra	Alexandra Kroeger	kroeger
-30	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_142.mp4	Adaption	create an abstract yet spatial representation using only the colors gold and orange, dark blue and violet	Also sprach Zarathustra	Alexandra Kroeger	kroeger
+30	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_142.mp4	Adaption	create an abstract yet spatial representation using only the colors gold and orange, dark blue and violet	Also sprach Zarathustra	Alexandra Kroeger	
