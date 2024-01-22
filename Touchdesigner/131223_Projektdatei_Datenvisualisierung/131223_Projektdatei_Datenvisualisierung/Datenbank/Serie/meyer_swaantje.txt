@@ -1,7 +1,7 @@
 ﻿name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_001_132.jpg	Adaptionen	living room  Raumstation Außenposten 1/7  Swaantje Meyer  meyer			
-02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_002_133.jpg	Adaptionen	living room in a space station  Raumstation Außenposten 2/7  Swaantje Meyer  meyer			
-03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_003_133.jpg	Adaptionen	living room in a container  Raumstation Außenposten 3/7  Swaantje Meyer  meyer			
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_001_132.jpg	Adaptionen	living room	Raumstation Außenposten 1/7	Swaantje Meyer	meyer			
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_002_133.jpg	Adaptionen	living room in a space station 	Raumstation Außenposten 2/7	Swaantje Meyer	meyer			
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_003_133.jpg	Adaptionen	living room in a container	Raumstation Außenposten 3/7	Swaantje Meyer	meyer			
 04	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_004_133.jpg	Adaptionen	living room in a container  Raumstation Außenposten 4/7  Swaantje Meyer  meyer			
 05	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_005_133.jpg	Adaptionen	living room in a space station  Raumstation Außenposten 5/7  Swaantje Meyer  meyer			
 06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Meyer_Swaantje/03_Adaptionen_Meyer_Swaantje_AshesToSpace_006_133.jpg	Adaptionen	living room  Raumstation Außenposten 6/7  Swaantje Meyer  meyer			
