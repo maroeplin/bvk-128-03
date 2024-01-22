@@ -1,3 +1,3 @@
-nummer	path	filter	prompt	titel	autor	projektuebersicht
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_084.jpg  Adaption  empty astronaut suits inside a biomechanical space ship in the style of "H.R. Giger"; biomechanical, alien, horror, Alien  Suits  Nathalie Stein  stein
-02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Langhanki_Jan/01_Szenen_Langhanki_Jan_084.png  Szenen  two noir detectives have a conversation inside of a space station. Steampunk noir pulp style. pre world war 2. realistic black and white photography.  Gespräch  Jan Langhanki  langhanki
+﻿nummer	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Stein_Nathalie/03_Adaption_Stein_084.jpg	Adaption	empty astronaut suits inside a biomechanical space ship in the style of "H.R. Giger"; biomechanical, alien, horror, Alien	Suits	Nathalie Stein	stein						
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Langhanki_Jan/01_Szenen_Langhanki_Jan_084.png	Szenen	two noir detectives have a conversation inside of a space station. Steampunk noir pulp style. pre world war 2. realistic black and white photography.	Gespräch	Jan Langhanki	langhanki						
