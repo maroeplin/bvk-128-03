@@ -1,5 +1,5 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Schlotthauer_Jana/01_Szenen_Schlotthauer_Jana_124_01.jpg  Szenen  Kaleidoscopic.	Scene from 2001 a space odyssey.  _Sinnestunnel01  Jana Schlotthauer  schlotthauer
+01  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Schlotthauer_Jana/01_Szenen_Schlotthauer_Jana_124_01.jpg	Szenen	Kaleidoscopic.	Scene from 2001 a space odyssey.	_Sinnestunnel01	Jana	Schlotthauer	schlotthauer
 02  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Schlotthauer_Jana/01_Szenen_Schlotthauer_Jana_124_02.jpg  Szenen	Kaleidoscopic. Scene from 2001 a space odyssey. human skin under the microscope.  _Sinneltunnel02  Jana Schlotthauer  schlotthauer
 03  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Schlotthauer_Jana/01_Szenen_Schlotthauer_Jana_124_03.jpg  Szenen	a surreal and dreamlike scene. ethereal and eerie. neon light tunnel.  _Sinnestunnel 03  Jana Schlotthauer  schlotthauer
 04  https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Schlotthauer_Jana/01_Szenen_Schlotthauer_Jana_124_04.jpg  Szenen  the concept of space, kaleidoscopic, eerie, distorted, weird, unusual.  _Sinneserscheinung01  Jana Schlotthauer  schlotthauer
