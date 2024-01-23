@@ -1,1 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+06	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Grineva_Jana/01_Szenen_Grineva_Jana_012_01.jpg	Szenen	monkeys screaming near monolith, film "2001: Space Odyssey", Stanley Kubrick'a atmosphere. Under water. minimalistic, aesthetic.	Monolith	Jana Grineva	grineva						
+07	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Grineva_Jana/01_Szenen_Grineva_Jana_012_02.jpg	Szenen	monkeys screaming near monolith, film "2001: Space Odyssey", Stanley Kubrick'a atmosphere. Under water. minimalistic, aesthetic.	Monolith	Jana Grineva	grineva						
+08	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Grineva_Jana/01_Szenen_Grineva_Jana_012_03.jpg	Szenen	monkeys screaming near monolith, film "2001: Space Odyssey", Stanley Kubrick'a atmosphere. Under water. minimalistic, aesthetic.	Monolith	Jana Grineva	grineva	
