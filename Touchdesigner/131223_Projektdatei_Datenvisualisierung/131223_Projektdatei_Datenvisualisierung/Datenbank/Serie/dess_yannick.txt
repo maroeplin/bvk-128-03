@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/De%C3%9F_Yannick/040_Objekte_Yannick_Dess_Raumschiff.jpg	Objekte	Prompt	Raumschiff	Yannick Deß	dess

@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+00	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Haarmann_R_Faesel_L/00_Objekt_Haarmann_R_Faesel_L_054.jpg	Objekt	monolith from the movie „2001: space odyssey“, in a scene from shaun the sheep, aardman animation, claymation	Monolith	Rose Haarmann, Lara Faesel	haarmann					

@@ -1,2 +1,4 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
-01	https://raw.githubusercontent.com/maroeplin/bvk-128-03/94f684eb10301f89899dd1f512a5569cd15748fb/Timecodes/028/028_Freynhagen_Hannah.jpg	Szenen
+07	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Saathoff_Katharina/03_Adaptionen_Saathoff_Planet9_044.jpg	Adaptionen	close up, astronaut, plants in landscape, science fiction, set design, inspired by stanley kubricks space odyssey: 2001  Nahaufnahme Astronaut	Katharina Saathoff	saathoff
+02	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Ries_Johanna/03_Adaption_Ries_Johanna_044.jpg	Adaptionen	Create an image of the interior of a spaceship; The scene should exude peace and calm; It should look like it was printed with a 3D printer;	SpacePrint	Johanna Ries	ries
+03	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Blumstein_Alina/01_Szenen_Blumstein_Alina_044.jpg	Szenen	everything melts heavily  Abstract Conferenceroom	Alina Blumstein	blumstein

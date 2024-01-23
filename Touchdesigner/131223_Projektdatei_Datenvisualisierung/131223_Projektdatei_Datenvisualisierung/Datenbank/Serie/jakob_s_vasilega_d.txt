@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+30	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/070/30_Szenen_Jakob_Vasilega_Sarah_Dariia_070.png	Szenen	design for HAL, supercomputer for Stanley Kubrick´s Space Odyssey movie but designed in Soviet Constructivist style, 1960s, USSR, Minimalistic, Industrial, Utilitarian, modular, Rational, Bold, Streamlined, Solaris,  futuristic, photorealistic, retro, simple, red star emblem, propaganda	Hal design	Sarah Jakob Dariia Vasilega	jakob
