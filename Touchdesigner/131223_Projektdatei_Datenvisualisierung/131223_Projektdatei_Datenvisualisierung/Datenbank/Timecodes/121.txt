@@ -1,1 +1,2 @@
-22	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_121.mp4	Adaption	create an abstract yet spatial representation using only the colors bright yellow, beige, and cool blue	Ligeti:Requiem	Alexandra Kroeger
+name	path	filter	prompt	titel	autor	projektuebersicht
+22	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_121.mp4	Adaption	create an abstract yet spatial representation using only the colors bright yellow, beige, and cool blue	Ligeti:Requiem	Alexandra Kroeger kroeger
