@@ -16,3 +16,4 @@ name	path	filter	prompt	titel	autor	projektuebersicht
 35  	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Timecodes/128/35_Szenen_Nguyen_128.png  	Szenen  	abstract, outer space, green hue  	Stop-Motion grüne Textilien  	Tuan Nguyen	nguyen
 17  	https://raw.githubusercontent.com/maroeplin/bvk-128-03/main/Projektserie/Blumstein_Alina/01_Szenen_Blumstein_Alina_128.jpg	Szenen	Everything melts heavily, abstract, art	Abstract Lights 2	Alina Blumstein	blumstein											
 24	\Datenbank\Videos\03_Adaption_Kroeger_Alexandra_128.mp4	Adaption	create an abstract yet spatial representation using only the colors dark blue, silver and red	Ligeti:Atmospheres	Alexandra Kroeger	kroeger
+16	\Datenbank\Videos\01_Szenen_Gajewi_SPACElights_small.mp4	[Midjourney Blend, Photoshop (Edited), Color Correction, Runway Image2Video, Runway Edit]	SPACElights	Tim Gajewi	gajewi
