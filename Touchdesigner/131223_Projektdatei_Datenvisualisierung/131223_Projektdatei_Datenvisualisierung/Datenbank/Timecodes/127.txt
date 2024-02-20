@@ -1,1 +1,2 @@
 name	path	filter	prompt	titel	autor	projektuebersicht
+16	\Datenbank\Videos\01_Szenen_Gajewi_SPACElights_small.mp4	[Midjourney Blend, Photoshop (Edited), Color Correction, Runway Image2Video, Runway Edit]	SPACElights	Tim Gajewi	gajewi
